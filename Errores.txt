@@ -1,0 +1,22 @@
+
+----------------------------------------------------------------------------
+	Errores en la implementación del programa
+----------------------------------------------------------------------------
+
+* Errores lógicos:
+	Dado que el programa implementado es muy sencillo, solo es posible
+	que no arroje los resultados esperados cuando el/la cajer@ no ingresa
+	la información del cliente o la información del prodcuto correctamente.
+	El uso del programa requiere un conocimiento mínimo sobre las funciones
+	para evitar este tipo de errores.
+	
+	Es fundamental que al ingresar el rol del cliente se escriba bien la 
+	palabra, con la primera letra en mayúscula y el resto en minúscula, 
+	solo es válido ingresar 'Estudiante' o 'Profesor', de lo contrario el
+	programa falla al no poder encontrar el precio total a pagar.
+
+* Estrategias de solución:
+	A pesar de que para obtener un correcto funcionamiento de programa es
+	necesario ingresar parámetros válidos, para el caso del error lógico
+	debido al rol es posible poner un condicional que advierta al usuario 
+	que la palabra fue escrita mal. 
