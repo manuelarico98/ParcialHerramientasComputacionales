@@ -1,6 +1,6 @@
 # ParcialHerramientasComputacionales
 
-####En este repositorio se encuentran los dos archivos desarrollados para el examén final del curso de herramientas computacionales. 
+#### En este repositorio se encuentran los dos archivos desarrollados para el examén final del curso de herramientas computacionales. 
 ___
 En el archivo **Mercatería.py**, se encuentra el código en el lenguaje de Python que permite realizar el cobro por la compra de productos en la Mercatería, al cual se le aplica un descuento debido al aniversario de la tienda. 
 
